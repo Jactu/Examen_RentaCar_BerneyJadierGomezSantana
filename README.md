@@ -80,6 +80,11 @@ ITBIS del 18%.
 Total final a pagar.
 
 Capturas:
+
+
+
+
+
 <img width="932" height="745" alt="image" src="https://github.com/user-attachments/assets/5f251884-236f-4a34-a750-c3421f24180e" />
 <img width="917" height="741" alt="image" src="https://github.com/user-attachments/assets/692a96fb-35a9-494e-b4df-bda7266a92e3" />
 <img width="917" height="741" alt="image" src="https://github.com/user-attachments/assets/ae160db2-9ff5-4ab3-ba7b-93d885636fe0" />
